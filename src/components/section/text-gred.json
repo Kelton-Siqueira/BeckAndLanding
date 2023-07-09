@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_section_text_greds",
+  "info": {
+    "displayName": "text-grid",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "description": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
